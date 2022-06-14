@@ -26,7 +26,7 @@
     steps:
       cloudFoundryDeploy:
         cloudFoundry: 
-          apiEndpoint: "https://api.cf.eu10.hana.ondemand.com"
+          apiEndpoint: "https://api.cf.us10.hana.ondemand.com"
           org: "f6afb8b8trial_trial1-dl6fzhsg"
           space: "dev"
           credentialsId: "cfdeploy"
